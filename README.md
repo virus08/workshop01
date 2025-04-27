@@ -88,12 +88,12 @@ vue add router
     "not dead",
     "not ie 11"
   ],
-  "overrides": {
+  "overrides": { 
+    "acorn": "8.8.0",
     "cross-spawn": "7.0.5",
     "postcss": "8.4.31"
   },
   "resolutions": {
-    "acorn": "8.8.0",
     "postcss": "8.4.31",
     "cross-spawn": "7.0.5",
     "**/cross-spawn": "7.0.5",
