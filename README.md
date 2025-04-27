@@ -8,21 +8,7 @@ This workshop is designed to help you build a simple web application using Vue.j
 
 - Basic knowledge of JavaScript and HTML
 - Node.js and npm installed on your machine
-- A code editor (like Visual Studio Code)
-- Git installed on your machine
-- Basic understanding of Git
-- A web browser (like Chrome or Firefox)
-- A terminal or command prompt
-- A GitHub account (optional, for deployment)
-- A web server (like Apache or Nginx) for deployment
-- A cloud service provider (like AWS, Azure, or Google Cloud) for deployment (optional)
-- A domain name (optional, for deployment)
-- Basic knowledge of REST APIs (optional, for backend integration)
-- Basic knowledge of JSON (optional, for data handling)
-- Basic knowledge of CSS (optional, for styling)
-- Basic knowledge of responsive design (optional, for mobile compatibility)
-- Basic knowledge of accessibility (optional, for web accessibility)
-- Basic knowledge of SEO (optional, for search engine optimization)
+- A code editor (like Visual Studio Code) 
 
 ## Getting Started
 
